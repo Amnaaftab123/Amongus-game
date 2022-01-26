@@ -1,2 +1,2 @@
-# hi
-saasgghas
+#  Amongus game
+This repo is about Amongus game
